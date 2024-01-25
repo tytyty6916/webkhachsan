@@ -10,7 +10,7 @@ a {
 }
 
 a:hover {
-  color: #45ffbb;
+  color: #422c06cc;
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ h6,
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #45ffbb;
+  background: #422c06cc;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -65,7 +65,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #257d57;
+  background: #422c06cc;
 }
 
 #header.header-transparent {
@@ -73,7 +73,7 @@ h6,
 }
 
 #header.header-scrolled {
-  background: #122c0199;
+  background: #422c06cc;
   height: 60px;
 }
 
@@ -338,7 +338,7 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(30, 66, 6, 0.8), #1e420699), url("../img/PHIN7415-scaled.jpeg") center top no-repeat;
+  background: linear-gradient(to right, #422c06cc, rgba(66, 44, 6, 0.6)), url("../img/PHIN7415-scaled.jpeg") center top no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -351,7 +351,7 @@ h6,
   top: 0;
   width: 130%;
   height: 96%;
-  background: #3d6f1b99;
+  background: #422c06cc;
   opacity: 0.3;
   z-index: 0;
   border-radius: 0 0 50% 50%;
@@ -415,7 +415,7 @@ h6,
 }
 
 #hero .btn-get-started:hover {
-  background: #45ffbb;
+  background: #130d01cc;
   color: #fff;
   text-decoration: none;
 }
@@ -2133,7 +2133,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: #03070a;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2141,7 +2141,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #0d2735;
+  background: #1a1715;
 }
 
 #footer .footer-newsletter h4 {
@@ -2184,11 +2184,11 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #468db3;
+  background: #1a1715;
 }
 
 #footer .footer-top {
-  background: #0d2735;
+  background: #1a1715;
   border-top: 1px solid #17455e;
   border-bottom: 1px solid #123649;
   padding: 60px 0 30px 0;
@@ -2231,7 +2231,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #68A4C4;
+  background: #1a1715;
   color: #fff;
   text-decoration: none;
 }
